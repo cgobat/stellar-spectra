@@ -1,4 +1,4 @@
-# Inferring Stellar Distances Using Optical Spectroscopy
+# Inferring Stellar Distances Using Optical Photometry
 ## Design and Implementation of a Python-Based Engine to Parse and Analyze Stellar Spectra from the SDSS Catalog
 
 A fitting engine that uses photometric observations of stars by SDSS to infer their distance from Earth.
